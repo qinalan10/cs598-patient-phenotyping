@@ -1,1 +1,1 @@
-# cs598-patient-phenotyping
+# CS598-Patient-Phenotyping
