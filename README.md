@@ -1,4 +1,4 @@
-# CS598-Patient-Phenotyping
+# CS598-DLH : Patient-Phenotyping
 ## Patient Phenotyping
 This repository contains the code and data to create CNN based classifier for Patient Phenotyping.
 ### Data
