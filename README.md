@@ -9,7 +9,7 @@ This repository contains the code and data to create CNN based classifier for Pa
 1. Pre_processing - This file provides the code to read, merge and join the patient notes and annotations. If the patient notes file can be availed, then place the file along with the annotations file and run the code. This is a google colab notebook. To use the notebook, please create folders in google drive and place the files in the corresponding folders. 
 
 2. DLH_Patient_Phenotyping.ipynb - This google colab notebook does the following -
-  asdad
+  * asdad
   adasda
 
 ### Model
