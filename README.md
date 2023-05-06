@@ -25,6 +25,8 @@ A pretrained model has been provided. The pretarined model can be loaded directl
 
 
 ### Note :
+Our model is based on the below architecture. The details of the paper is listed in Referece section below.
+
 https://www.cs.cornell.edu/courses/cs4780/2018fa/lectures/lecturenote17.html
 
 ## References
