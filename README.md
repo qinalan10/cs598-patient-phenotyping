@@ -27,3 +27,5 @@ A pretrained model has been provided. The pretarined model can be loaded directl
 ## References
 <a id="1">[1]</a> 
 Gehrmann S, Dernoncourt F, Li Y, Carlson ET, Wu JT, Welt J, Foote J Jr, Moseley ET, Grant DW, Tyler PD, Celi LA. Comparing deep learning and concept extraction based methods for patient phenotyping from clinical narratives. PLoS One. 2018 Feb 15;13(2):e0192360. doi: 10.1371/journal.pone.0192360. PMID: 29447188; PMCID: PMC5813927.
+
+https://www.cs.cornell.edu/courses/cs4780/2018fa/lectures/lecturenote17.html
