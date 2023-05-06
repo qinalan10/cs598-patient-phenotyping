@@ -22,7 +22,7 @@ DLH_Patient_Phenotyping.ipynb - This google colab notebook does the following -
   * Trains the Model
   * Evaluates the model
 
-To run this, please use google colab. Place the final file in the fodler suggested
+To run this, please use google colab. Place the final file in the fodler suggested and run.
 
 2. 
   
