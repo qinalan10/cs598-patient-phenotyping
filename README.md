@@ -1,7 +1,7 @@
 # CS598-DLH : Patient-Phenotyping
 ## Patient Phenotyping
 
-This repository contains the code and data to create CNN based classifier for Patient Phenotyping. 
+This repository contains the code and data to create CNN based classifier for Patient Phenotyping. This is an implementaion of CNN classifier inspired by the paper "Comparing deep learning and concept extraction based methods for patient phenotyping".
 
 ### Data
 
