@@ -32,6 +32,11 @@ To run this, please use google colab. Place the final file in the folder suggest
 ### Model
 A pretrained model has also been provided. The pretarined model can be loaded directly instead of training the mode from scratch whihc is time consuming. The test data has been loaded into a pickle file. Please load the test data from the pickle file suggested in the data section and run the notebook - DLH_Patient_Phenotyping_Model.ipynb. The test data is exactly the same test data that is created in the original model building file. So, this should produce the exact results as the orignal file.
 
+### Experiments
+We have run multiple experiments on top of the final model that we were able to compile. The experiments are supplied as their own colab notebook files and is present at Code/Experiments folder.
+
+There are 5 experiments performed and the results and updated parameters are present in the same notebook.
+
 ## References
 <a id="1">[1]</a> 
 Gehrmann S, Dernoncourt F, Li Y, Carlson ET, Wu JT, Welt J, Foote J Jr, Moseley ET, Grant DW, Tyler PD, Celi LA. Comparing deep learning and concept extraction based methods for patient phenotyping from clinical narratives. PLoS One. 2018 Feb 15;13(2):e0192360. doi: 10.1371/journal.pone.0192360. PMID: 29447188; PMCID: PMC5813927.
