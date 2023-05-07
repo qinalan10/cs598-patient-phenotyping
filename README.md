@@ -40,6 +40,20 @@ A pretrained model has also been provided in /Model folder. The pretarined model
 We have run multiple experiments on top of the final model that we were able to compile. The experiments are supplied as their own colab notebook files and is present at Code/Experiments folder.
 
 There are 5 experiments performed and the results and updated parameters are present in the same notebook.
+Phenotype Score Our Auth BoW n-gram
+Adv. Heart Dis. P 65 74 70 78
+R 56 76 32 42
+F1 60 75 44 55
+AUC 74 91 85 85
+Chronic Neuro P 65 69 47 49
+R 56 70 46 54
+F1 60 69 46 51
+AUC 74 84 72 71
+Alcohol Abuse P 82 85 100 55
+R 67 79 50 64
+F1 74 81 67 59
+AUC 82 96 89 88
+Table 1: Comparison with concept extraction based
 
 ## References
 <a id="1">[1]</a> 
