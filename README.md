@@ -30,7 +30,7 @@ The final file has aready been given and the Pre-Processing step can be skipped 
 To run this, please use google colab. Place the final file in the folder suggested and run.
 
 ### Model
-A pretrained model has also been provided. The pretarined model can be loaded directly instead of training the mode from scratch whihc is time consuming. The test data has been loaded into a pickle file. Please load the test data from the pickle file suggested in the data section and run the notebook - DLH_Patient_Phenotyping_Model.ipynb. The test data is exactly the same test data that is created in the original model building file. So, this should produce the exact results as the orignal file.
+A pretrained model has also been provided in /Model folder. The pretarined model can be loaded directly instead of training the mode from scratch whihc is time consuming. The test data has been loaded into a pickle file. Please load the test data from the pickle file suggested in the data section and run the notebook - DLH_Patient_Phenotyping_Model.ipynb. The test data is exactly the same test data that is created in the original model building file. So, this should produce the exact results as the orignal file.
 
 ### Experiments
 We have run multiple experiments on top of the final model that we were able to compile. The experiments are supplied as their own colab notebook files and is present at Code/Experiments folder.
