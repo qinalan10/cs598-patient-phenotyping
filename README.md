@@ -44,4 +44,4 @@ Gehrmann S, Dernoncourt F, Li Y, Carlson ET, Wu JT, Welt J, Foote J Jr, Moseley 
 
 ### Note :
 Below is the codebase for the paper listed under reference.
-https://www.cs.cornell.edu/courses/cs4780/2018fa/lectures/lecturenote17.html
+https://github.com/sebastianGehrmann/phenotyping
