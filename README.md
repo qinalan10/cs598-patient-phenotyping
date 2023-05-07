@@ -12,7 +12,11 @@ The data used for this experiment is present in MIMIC-III database.
 3. Final File - This file has been created by merging the patient notes and annotation data. Only records for the matching patients in both the files have been kept. This is the file used to train/ validate/ test the CNN model.
 4. If one wants to start the process from scratch. please download the patients' notes data from the above address and run the pre-process code to create the final file.
 5. We also provide a file called dataset_dict.pickle which already contains the train/ test and validation data split. 
- 
+
+### Dependencies
+1. We recommend to have GPU enbled device to have a better processing time. Without GPU, it may take hours to complete the run.
+2. To access the data from MIMIC-III, one would have to go through CITI training considering the sensitive nature of data.
+
 ### Code
 1. Pre_processing - Data_Pre_Processing.ipynb - This file provides the code to read, merge and join the patient notes and annotations. If the patient notes file can be availed, then place the file along with the annotations file and run the code. This is a google colab notebook. To use the notebook, please create folders in google drive and place the files in the appropriate folders and run. 
 
