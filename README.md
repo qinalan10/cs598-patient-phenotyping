@@ -17,13 +17,14 @@ The data used for this experiment is present in MIMIC-III database.
 1. We recommend to have GPU enbled device to have a better processing time. Without GPU, it may take hours to complete the run.
 2. To access the data from MIMIC-III, one would have to go through CITI training considering the sensitive nature of data.
 3. Below packeages are important packages needed for running the experiment -
-pandas
-sklearn metrics
-pytorch
-numpy
-ntlk corpus
-re for regex
-torchsummary 
+* pandas
+* sklearn metrics
+* pytorch
+* numpy
+* ntlk corpus
+* re for regex
+* torchsummary 
+* Google Colab Notebook Platform (GPU enabled will help with the processing time)
 
 ### Code
 1. Pre_processing - Data_Pre_Processing.ipynb - This file provides the code to read, merge and join the patient notes and annotations. If the patient notes file can be availed, then place the file along with the annotations file and run the code. This is a google colab notebook. To use the notebook, please create folders in google drive and place the files in the appropriate folders and run. 
