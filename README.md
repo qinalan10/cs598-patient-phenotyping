@@ -9,7 +9,7 @@ The data used for this experiment is present in MIMIC-III database.
 
 1. Patient Notes Data - This file is too large to upload into GitHub. The file can be downloaded from following location - https://physionet.org/content/mimiciii/1.4/. Additonally, this data is sensitive and shouldn't be uploaded in public forum.
 2. Annotations - This file contains the annoations on 1670 patients data. The file is present in Data folder.
-3. Final File - This file has been created by merging the patient notes and annotation data. Only records for the matching patients in both the files have been kept. This is the file used to train/ validate/ test the CNN model.
+3. Final File - **NOT INCLUDED DUE TO HIIPA** This file has been created by merging the patient notes and annotation data. Only records for the matching patients in both the files have been kept. This is the file used to train/ validate/ test the CNN model. Please download the NOTEEVENTS.csv from https://physionet.org/content/mimiciii/1.4/ and run the preprocessing notebook to generate this file.
 4. If one wants to start the process from scratch. please download the patients' notes data from the above address and run the pre-process code to create the final file.
 5. We also provide a file called dataset_dict.pickle which already contains the train/ test and validation data split. 
 
